@@ -1,0 +1,15 @@
+.SofaboldLogo, .topLogo_SomE, .AppStoreTop,
+.AppStoreRight, .socialRightMenu, .right_whitebox:first-child,
+.bottom, .top, .rightcontainer, .calendar {
+    display: none;
+}
+
+.leftcontainer {
+    width: 100%;
+}
+
+.match {
+    height: 75px;
+    margin: 10px auto;
+    border-radius: 0px;
+}
