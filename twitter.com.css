@@ -26,3 +26,7 @@ h1[role=heading] {
 .css-901oao.r-111h2gw.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-vmopo1.r-qvutc0 {
     display: none;
 }
+
+a[data-testid="AppTabBar_Explore_Link"] {
+    display: none;
+}
