@@ -1,0 +1,28 @@
+/*.Remove "who to follow" section */
+.css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-t23y2h.r-1phboty.r-rs99b7.r-ku1wi2.r-1bro5k0.r-1udh08x {
+    display: none;
+}
+
+/* Remove annoying footer stuff */
+.css-1dbjc4n.r-1niwhzg.r-18bvks7.r-t23y2h.r-1phboty.r-1yadl64.r-ku1wi2.r-1udh08x {
+    display: none;
+}
+
+/* Remove the disturbing top */
+h1[role=heading] {
+    display: none;
+}
+
+/* Remove heading */
+.css-1dbjc4n.r-aqfbo4.r-yfoy6g.r-1ila09b.r-rull8r.r-qklmqi.r-gtdqiz.r-ipm5af.r-1g40b8q {
+    display: none;
+}
+
+/* remove trend location & count*/
+.css-901oao.r-111h2gw.r-1qd0xha.r-n6v787.r-16dba41.r-1sf4r6n.r-bcqeeo.r-qvutc0 {
+    display: none;
+}
+
+.css-901oao.r-111h2gw.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-vmopo1.r-qvutc0 {
+    display: none;
+}
