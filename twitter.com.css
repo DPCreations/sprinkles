@@ -13,7 +13,6 @@ h1[role=heading] {
     display: none;
 }
 
-/* Remove heading */
 .css-1dbjc4n.r-aqfbo4.r-yfoy6g.r-1ila09b.r-rull8r.r-qklmqi.r-gtdqiz.r-ipm5af.r-1g40b8q {
     display: none;
 }
@@ -27,6 +26,19 @@ h1[role=heading] {
     display: none;
 }
 
+/* Remove explore link */
 a[data-testid="AppTabBar_Explore_Link"] {
+    display: none;
+}
+
+/* Move tweet button */
+a[data-testid="SideNav_NewTweet_Button"] {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    box-shadow: 2px 2px 2px #000;
+}
+
+img, video {
     display: none;
 }
