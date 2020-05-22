@@ -38,7 +38,3 @@ a[data-testid="SideNav_NewTweet_Button"] {
     bottom: 50px;
     box-shadow: 2px 2px 2px #000;
 }
-
-img, video {
-    display: none;
-}
