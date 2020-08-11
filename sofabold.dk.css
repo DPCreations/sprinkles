@@ -1,15 +1,24 @@
+/* Hide stuff */
 .SofaboldLogo, .topLogo_SomE, .AppStoreTop,
 .AppStoreRight, .socialRightMenu, .right_whitebox:first-child,
-.bottom, .top, .rightcontainer, .calendar {
+.bottom, .top, .rightcontainer, .calendar, .top_b_display,
+.topcontainer, .wvote_click, .wvote_slide, .help-container, .matchheader {
     display: none;
 }
 
+/* Full width display */
 .leftcontainer {
     width: 100%;
 }
 
+/* Smaller matches */
 .match {
     height: 75px;
     margin: 10px auto;
     border-radius: 0px;
+}
+
+/* Just a little margin at the top */
+.center_menuBOX {
+    margin-top: 20px;
 }
